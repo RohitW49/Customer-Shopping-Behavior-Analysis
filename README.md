@@ -104,7 +104,8 @@ The dataset contains customer shopping information including:
   - Subscription Status  
   - Category  
   - Shipping Type  
-
+  
+## 📸 Dashboard Preview
 ![Customer Behavior Dashboard](Customer_Behavior_Dashboard.png)
 
 ---
