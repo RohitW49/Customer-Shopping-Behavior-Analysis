@@ -56,7 +56,7 @@ The dataset contains customer shopping information including:
 | `Customer Shopping Behavior.ipynb` | Python notebook used for data cleaning |
 | `Customer Shopping Behavior.sql` | SQL queries for business analysis |
 | `Customer Behavior Dashboard.pbix` | Power BI dashboard |
-| `Customer Behavior Dashboard.png` | Preview image of the dashboard |
+| `Customer_Behavior_Dashboard.png` | Preview image of the dashboard |
 | `README.md` | Project documentation |
 
 ---
