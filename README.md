@@ -6,10 +6,11 @@ This project analyzes customer shopping behavior using transactional and custome
 It focuses on revenue trends, purchase preferences, discounts, customer segments, product performance, and the impact of subscription/loyalty factors.
 
 The workflow includes:
-✔ Data Cleaning & Preprocessing (Python)
-✔ Business Problem Solving using SQL
-✔ Dashboard Creation in Power BI
-✔ Insight Generation
+- Data Cleaning & Preprocessing (Python)
+- Business Problem Solving using SQL
+- Dashboard Creation in Power BI
+- Insight Generation
+
 ---
 
 ## 🎯 Objective
